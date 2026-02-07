@@ -1,25 +1,12 @@
 # Hi, I'm Vincent 
 
 ## About Me
-I'm a web developer learning Git and GitHub.
-I'm focused on building real projects and improving every day.
+I'm a Frontend web developer with focus on building responsive, user-centered web applications. I enjoy tranforming ideas and designs into fuctional websites that are visually appeling and well structured.
+I'm always eager to learn, grow, and take on new challenges.
 
 ## Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-
-## Current Goals
-- Build consistent projects 
-- Improve frontend skills
-- Learn JavaScript 
-
-## Projects 
-- Ecommerce website redesign
-- Personal Portfolio website
-- Bank app website
-- Online Electricity system website.
+- Frontend: HTML, CSS, JavaScript
+- Version Control: Git, GitHub.
 
 ## Contact 
 -Email: ojonugwavincent99@gmail.com
